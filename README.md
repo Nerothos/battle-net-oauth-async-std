@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/nerothos/battle-net-oauth-async-std.svg?branch=master)](https://travis-ci.org/nerothos/battle-net-oauth-async-std)
+[![Build Status](https://travis-ci.com/nerothos/battle-net-oauth-async-std.svg?branch=master)](https://travis-ci.com/nerothos/battle-net-oauth-async-std)
 
 Battle.net OAuth token
 ===
@@ -9,7 +9,7 @@ Installation
 ---
 
 ```
-battle-net-oauth-async-std = "0.1"
+battle-net-oauth-async-std = "0.1.1"
 ```
 
 [Documentation](https://docs.rs/battle-net-oauth-async-std/)
